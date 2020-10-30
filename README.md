@@ -199,3 +199,4 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Zeo](https://zeo.org)                                     |                | 1+ ay   |
 |     | [Zeplin](https://zeplin.io)                                |                | -       |
 |     | [Zingat](https://www.zingat.com)                           |                | 1+ hafta |
+|     | [Halı Special](https://www.halispecial.com)                |                | 1+ hafta |
